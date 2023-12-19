@@ -1,4 +1,4 @@
-# Active-Learning-Package
+# Active-Learning-Frameworks
 
 This package provides general tools for creating, studying and applying Deep Active Learning frameworks.
 
@@ -21,7 +21,10 @@ We also provide another framework :
 
 ## Example notebook
 
-We provide a notebook, giving examples of how you can use this package.
+We provide a notebook *examples.ipynb*, giving examples of how you can use this package.
+
+## Prerequisites
+
 - numpy
 - pytorch
 - torchvision
@@ -29,10 +32,6 @@ We provide a notebook, giving examples of how you can use this package.
 - toma
 - tqdm
 - pickle
-
-## Prerequisites
-
-
 
 
 ## References 
